@@ -1,0 +1,15 @@
+.container {
+	position: relative;
+}
+
+.dollpiece, .doll-piece img {
+	width:100%;
+	border:5px double grey;
+}
+
+.doll-piece {
+	width:400px;
+	position: absolute;
+	top:0;
+	left:0;
+}
